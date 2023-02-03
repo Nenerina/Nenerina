@@ -1,9 +1,9 @@
 ### Hi
  # 🐱‍👤 
  
-Real Name: Irene
+| Real Name: Irene |
 
-Nice to meet you (❁´◡`❁)
+| Nice to meet you (❁´◡`❁) |
 
 
 <!--
