@@ -1,5 +1,10 @@
 ### Hi
- # 🐱‍👤
+ # 🐱‍👤 
+ 
+Real Name: Irene
+
+Nice to meet you (❁´◡`❁)
+
 
 <!--
 **Nenerina/Nenerina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![lee-zhan-jie-christopher-back-alley](https://user-images.githubusercontent.com/123164229/216564068-9baef024-b82b-44d5-ada0-04da5c1f4e00.gif)
